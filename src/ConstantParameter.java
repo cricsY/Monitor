@@ -1,9 +1,6 @@
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by y50006079 on 2019/6/28.
- */
 public class ConstantParameter {
     //每次查询的间隔，单位毫秒
     public static double QUERYINTERVAL = 30 * 1000;

@@ -1,8 +1,5 @@
 import java.util.Date;
 
-/**
- * Created by y50006079 on 2019/7/1.
- */
 public class RealUser {
     private String nameStr;
     private String ip;

@@ -1,8 +1,6 @@
 import java.util.*;
 
-/**
- * Created by y50006079 on 2019/7/5.
- */
+
 public class IpSort {
     public static List<String> IpSetSort(List<String> ipSet) {
         if (ipSet.size() <= 1)

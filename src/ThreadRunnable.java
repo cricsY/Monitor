@@ -3,10 +3,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by y50006079 on 2019/7/2.
- */
-
 public class ThreadRunnable implements Runnable {
 
     private IpCount ipCount;

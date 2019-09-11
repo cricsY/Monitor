@@ -1,9 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-/**
- * Created by y50006079 on 2019/6/27.
- */
+
 public class Main {
     //用来存储连接失败的IP地址
     public static List<String> connectionFailList = new ArrayList<>();              //存放每次连接失败的Ip集合

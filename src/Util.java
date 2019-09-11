@@ -2,9 +2,6 @@ import java.io.*;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-/**
- * Created by y50006079 on 2019/7/8.
- */
 public class Util {
     public static void record(String path, String filename, String msg) {
         File folder = new File(path), file = new File(path + "/" + filename);

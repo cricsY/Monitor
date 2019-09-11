@@ -1,6 +1,4 @@
-/**
- * Created by y50006079 on 2019/6/27.
- */
+
 public class IpCount {
     private String Ip;
     private int port;

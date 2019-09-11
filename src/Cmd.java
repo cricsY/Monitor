@@ -1,9 +1,6 @@
 import java.io.*;
 import java.util.*;
 
-/**
- * Created by y50006079 on 2019/7/1.
- */
 public class Cmd {
 
     //暂存所有的计算机名称
